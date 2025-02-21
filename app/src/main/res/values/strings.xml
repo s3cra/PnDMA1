@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">mobilki1</string>
+    <string name="input_field">Поле ввода</string>
+    <string name="main_text">1 практика</string>
+    <string name="button">Кнопка(работает)</string>
+    <string name="button2">и кнопка (тоже работает)</string>
+    <string name="not_main_text">тут тоже текст</string>
 </resources>
